@@ -18,17 +18,14 @@
 - 作品や企画では、世界観・キャラクターデザイン・収集や図鑑的な楽しさ・実用性を大切にする。
 - 技術的なことにも関心があり、初心者向けの手順を一段ずつ確認しながら進めると取り組みやすい。
 
-## 資料一覧
-- [01_profile.md](01_profile.md)：活動全体・目標・取り組み方
-- [02_preferences.md](02_preferences.md)：好み・関心・デザイン傾向
-- [03_illustration.md](03_illustration.md)：イラスト活動・上達目標
-- [04_embroidery.md](04_embroidery.md)：刺繍活動・ブランド・機材・事業
-- [05_youtube.md](05_youtube.md)：YouTubeチャンネル・運営方針
-- [06_gaming.md](06_gaming.md)：ゲームの好み・実況・MOD
-- [07_development.md](07_development.md)：AI活用・Unity・ソフトウェア開発
-- [08_projects.md](08_projects.md)：進行中・検討中プロジェクト
-- [09_ai_collaboration.md](09_ai_collaboration.md)：AIに望む対応・会話の進め方
-- [CHANGELOG.md](CHANGELOG.md)：更新履歴
+## 資料一覧（Johnny.Decimal式・2026-11-24再編）
+まず [00-09 管理/00_index.md](00-09%20管理/00_index.md)（目次）を読むと全体を辿れる。
+
+- 00-09 管理：[00_index.md](00-09%20管理/00_index.md)（目次・対応表）、[01_changelog.md](00-09%20管理/01_changelog.md)（更新履歴）、[02_ai_collaboration.md](00-09%20管理/02_ai_collaboration.md)（AIに望む対応・会話の進め方）
+- 10-19 私について：[11_profile.md](10-19%20私について/11_profile.md)（活動全体・目標・取り組み方）、[12_preferences.md](10-19%20私について/12_preferences.md)（好み・関心・デザイン傾向）
+- 20-29 創作活動：[21_illustration.md](20-29%20創作活動/21_illustration.md)（イラスト活動・上達目標）、[22_embroidery.md](20-29%20創作活動/22_embroidery.md)（刺繍活動・ブランド・機材・事業）、[23_youtube.md](20-29%20創作活動/23_youtube.md)（YouTubeチャンネル・運営方針）
+- 30-39 趣味：[31_gaming.md](30-39%20趣味/31_gaming.md)（ゲームの好み・実況・MOD）
+- 40-49 開発・プロジェクト：[41_development.md](40-49%20開発・プロジェクト/41_development.md)（AI活用・Unity・ソフトウェア開発）、[42_projects.md](40-49%20開発・プロジェクト/42_projects.md)（進行中・検討中プロジェクト）、43_grok_trading_lab/（Grok Trading Lab資料）
 
 ## 情報の扱い方
 - **確定**：本人が決めた、または明確に述べた内容。
