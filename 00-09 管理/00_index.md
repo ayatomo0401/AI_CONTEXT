@@ -21,6 +21,7 @@
 - [../20-29 創作活動/22_embroidery.md](../20-29%20創作活動/22_embroidery.md)：刺繍活動・ブランド・機材・事業
 - [../20-29 創作活動/23_youtube.md](../20-29%20創作活動/23_youtube.md)：YouTubeチャンネル・運営方針、週刊手芸ニュース、楽天ROOM
 - [../20-29 創作活動/24_handicraft_news_writing_rules.md](../20-29%20創作活動/24_handicraft_news_writing_rules.md)：週刊手芸ニュースの書き方の法則・ルール（第1回スライドから抽出）
+- [../20-29 創作活動/25_animal_channel_research.md](../20-29%20創作活動/25_animal_channel_research.md)：新チャンネル企画『絵本図鑑・小さな自然史博物館』（仮）の競合調査レポート（動物・生き物紹介系チャンネルの競合と差別化の切り口、2026-11-28）
 - [../30-39 趣味/31_gaming.md](../30-39%20趣味/31_gaming.md)：ゲームの好み・実況・MOD
 - [../40-49 開発・プロジェクト/41_development.md](../40-49%20開発・プロジェクト/41_development.md)：AI活用・Unity・ソフトウェア開発
 - [../40-49 開発・プロジェクト/42_projects.md](../40-49%20開発・プロジェクト/42_projects.md)：進行中・検討中プロジェクト
